@@ -1,0 +1,15 @@
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week02\18-08-2024\Homework18-08-2024\Homework16\bin\Debug\net8.0\Homework16.exe
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week02\18-08-2024\Homework18-08-2024\Homework16\bin\Debug\net8.0\Homework16.deps.json
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week02\18-08-2024\Homework18-08-2024\Homework16\bin\Debug\net8.0\Homework16.runtimeconfig.json
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week02\18-08-2024\Homework18-08-2024\Homework16\bin\Debug\net8.0\Homework16.dll
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week02\18-08-2024\Homework18-08-2024\Homework16\bin\Debug\net8.0\Homework16.pdb
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week02\18-08-2024\Homework18-08-2024\Homework16\obj\Debug\net8.0\Homework16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week02\18-08-2024\Homework18-08-2024\Homework16\obj\Debug\net8.0\Homework16.AssemblyInfoInputs.cache
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week02\18-08-2024\Homework18-08-2024\Homework16\obj\Debug\net8.0\Homework16.AssemblyInfo.cs
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week02\18-08-2024\Homework18-08-2024\Homework16\obj\Debug\net8.0\Homework16.csproj.CoreCompileInputs.cache
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week02\18-08-2024\Homework18-08-2024\Homework16\obj\Debug\net8.0\Homework16.sourcelink.json
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week02\18-08-2024\Homework18-08-2024\Homework16\obj\Debug\net8.0\Homework16.dll
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week02\18-08-2024\Homework18-08-2024\Homework16\obj\Debug\net8.0\refint\Homework16.dll
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week02\18-08-2024\Homework18-08-2024\Homework16\obj\Debug\net8.0\Homework16.pdb
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week02\18-08-2024\Homework18-08-2024\Homework16\obj\Debug\net8.0\Homework16.genruntimeconfig.cache
+C:\Users\tunacan\Documents\GitHub\BackendBootcampDersler\2- C# Programlama\Week02\18-08-2024\Homework18-08-2024\Homework16\obj\Debug\net8.0\ref\Homework16.dll
